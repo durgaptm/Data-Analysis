@@ -14,6 +14,10 @@ This repository contains a portfolio of Projects related to Data Analytics compl
     - Word Frequency in Classic Novels :  Web Scraping and Exploratory Analysis of the html form of classic novel - 'The Three Musketeers' from Project Gutenberg website. Uses NLP to find the most frequent words in the novel.
     - Exploring the Bitcoin Cryptocurrency Market : Exploratory Data Analysis on bitcoin and other cryptocurrency data of the year 2017. The data is cleaned and then visualized to get insights on the cryptocurrency market.
     - Retail Products Sales Analytics : Exploratory Data Analysis is done on transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
+    - AndroidAppMarketOnGooglePlay :
+    - Investigating Netflix Movies & Guest Stars In The Office : 
+    - Runkeeper Fitness Data Analysis :
+    - 10k Runners Analysis : 
 
 - **SQL Projects**
     - Analyzing the World Population : In this project, the dataset by CIA World Factbook was used to explore how the world population spreads across different countries.
