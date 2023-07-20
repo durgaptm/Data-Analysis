@@ -22,6 +22,10 @@ This repository contains a portfolio of Projects related to Data Analytics compl
     - [Runkeeper Fitness Data Analysis](https://github.com/durgaptm/Data-Analysis/tree/main/Runkeeper%20Fitness%20Data%20Analysis): This Project examines data from a runner's seven years of Runkeeper tracking. Each row in the CSV file containing the data represents a training activity. The data was imported, cleaned, and analyzed.
     - [10k Runners Analysis](https://github.com/durgaptm/Data-Analysis/tree/main/10K%20Runners%20Analysis): The data used in this Project is from a 10K race that took place in Hillsboro in June 2017. The data is scraped using  Python's Beautiful Soup module. The data is analyzed and visualized after cleaning and manipulation to arrive at patterns. 
 
+- **Machine Learning and Natural Language Processing (NLP)**
+    - [Wine Quality Detection](https://github.com/durgaptm/Data-Analysis/tree/main/Wine%20Quality%20Detection): The project aims to predict the quality of red wine and analyze the chemical properties that influence the standard of wine.
+    - [Sentiment Analysis of P2P Platforms](https://github.com/durgaptm/Data-Analysis/tree/main/Sentiment%20Analysis%20of%20P2P%20Platforms): 2-way polarity (positive and negative) classification system for P2P Platforms, using NLTK's sentiment analysis engine.
+
 - **SQL Projects**
     - [Analyzing the World Population](https://github.com/durgaptm/Data-Analysis/tree/main/Analyze%20World%20Population): In this project, the dataset by CIA World Factbook was used to explore how the world population spreads across different countries.
     - [SQL Project for ArtBase company](https://github.com/durgaptm/Data-Analysis/tree/main/SQL%20Project%20for%20ArtBase%20company): This project was developed for academic purposes. A database was created as per some data requirements and some dummy data was added. The data was then explored through operations such as Aggregations, Group By, Joins, etc.
