@@ -2,6 +2,8 @@
 
 This repository contains a portfolio of Projects related to Data Analytics completed by me for academic and self-learning purposes, presented in the forms of Jupyter & Collab notebooks.
 
+To access my portfolio of dashboards created, please [click here](https://www.novypro.com/profile_projects/durgaptm).
+
 *Note: Data used in the projects (accessed under the Dataset directory) is for demonstration purposes only.*
 
 ### Instructions for Running Jupyter & Collab Notebooks Locally
