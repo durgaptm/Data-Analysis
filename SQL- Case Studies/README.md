@@ -13,7 +13,8 @@ This repository contains solution to The 8 Week SQL Challenge by [Date With Dann
   ### Case Study 1 - Danny's Diner
 
   #### ER Diagram
-  ![image](https://github.com/durgaptm/Data-Analysis/assets/111633696/0d1504aa-0bf0-4697-a35c-1f9db72fe326)
+![dannys diner](https://github.com/durgaptm/Data-Analysis/assets/111633696/89c8f76e-ee84-41bd-9cb1-e5642c09015f)
+
 
 
 
