@@ -1,5 +1,5 @@
 ## The 8 Week SQL Challenge
-This repository contains solution to The 8 Week SQL Challenge by [Date With Danny](https://8weeksqlchallenge.com/). The aim behind this is to learn SQL by going through multiple realistic end-to-end case studies that closely represent our work in a data analytics role.
+This repository contains solutions to The 8 Week SQL Challenge by [Date With Danny](https://8weeksqlchallenge.com/). The aim behind this is to learn SQL by going through multiple realistic end-to-end case studies that closely represent our work in a data analytics role.
 
 ### SQL Skills Gained
 - Exploratory data analysis
@@ -13,7 +13,9 @@ This repository contains solution to The 8 Week SQL Challenge by [Date With Dann
   ### Case Study 1 - Danny's Diner
 
   #### ER Diagram
-![dannys diner](https://github.com/durgaptm/Data-Analysis/assets/111633696/89c8f76e-ee84-41bd-9cb1-e5642c09015f)
+![alt text]((https://github.com/durgaptm/Data-Analysis/assets/111633696/60d99301-e296-48d6-a79c-5543791fca1d))
+
+![dannys diner](https://github.com/durgaptm/Data-Analysis/assets/111633696/c46439dd-1b1f-4f63-9f4b-4fb25b1fffc6)
 
 
 
