@@ -25,10 +25,12 @@ Also, the Dashboard Portfolio can be accessed at [Dashboard Portfolio](https://w
     - [10k Runners Analysis](https://github.com/durgaptm/Data-Analysis/tree/main/10K%20Runners%20Analysis): The data used in this Project is from a 10K race that took place in Hillsboro in June 2017. The data is scraped using  Python's Beautiful Soup module. The data is analyzed and visualized after cleaning and manipulation to arrive at patterns. 
 
 - **Machine Learning/Natural Language Processing (NLP)/Deep Learning**
+    - [Customer Lifetime Value (clv) Prediction](https://github.com/durgaptm/Data-Analysis/tree/main/Customer%20Lifetime%20Value%20Prediction): This project combines cohort analysis and machine learning to predict Customer Lifetime Value (CLV), providing actionable insights for customer-centric strategies.
     - [Wine Quality Detection](https://github.com/durgaptm/Data-Analysis/tree/main/Wine%20Quality%20Detection): The project aims to predict the quality of red wine and analyze the chemical properties that influence the standard of wine.
     - [Sentiment Analysis of P2P Platforms](https://github.com/durgaptm/Data-Analysis/tree/main/Sentiment%20Analysis%20of%20P2P%20Platforms): 2-way polarity (positive and negative) classification system for P2P Platforms, using NLTK's sentiment analysis engine.
     - [Potato Disease Detection](https://github.com/durgaptm/Data-Analysis/tree/main/Potato%20Disease%20Detection): A simple Image Classification Model that will categorize Potato Leaf Disease using a simple and classic Convolutional Neural Network Architecture.
 
 - **SQL Projects**
+    - [SQL-Case Studies](https://github.com/durgaptm/Data-Analysis/tree/main/SQL-%20Case%20Studies): These case studies delve into advanced SQL queries, showcasing their applications in data analysis and manipulation.
     - [Analyzing the World Population](https://github.com/durgaptm/Data-Analysis/tree/main/Analyze%20World%20Population): In this project, the dataset by CIA World Factbook was used to explore how the world population spreads across different countries.
     - [SQL Project for ArtBase company](https://github.com/durgaptm/Data-Analysis/tree/main/SQL%20Project%20for%20ArtBase%20company): This project was developed for academic purposes. A database was created as per some data requirements and some dummy data was added. The data was then explored through operations such as Aggregations, Group By, Joins, etc.
