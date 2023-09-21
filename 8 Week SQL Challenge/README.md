@@ -11,3 +11,4 @@ This repository contains solutions to The 8 Week SQL Challenge by [Date With Dan
 - Window functions
 
   ### [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
+  ### [Case Study 2 - Pizza Runner](https://8weeksqlchallenge.com/case-study-2/)
