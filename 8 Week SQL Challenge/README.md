@@ -1,5 +1,5 @@
 ## The 8 Week SQL Challenge
-This repository contains solutions to The 8 Week SQL Challenge by [Date With Danny](https://8weeksqlchallenge.com/). The aim behind this is to learn SQL by going through multiple realistic end-to-end case studies that closely represent our work in a data analytics role.
+This repository contains solutions to The 8 Week SQL Challenge by [Data With Danny](https://8weeksqlchallenge.com/). The aim behind this is to learn SQL by going through multiple realistic end-to-end case studies that closely represent our work in a data analytics role.
 
 ### SQL Skills Gained
 - Exploratory data analysis
