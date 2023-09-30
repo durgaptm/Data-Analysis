@@ -11,6 +11,9 @@ This repository contains solutions to The 8 Week SQL Challenge by [Data With Dan
 - Window functions
 
   ### [Case Study 1 - Danny's Diner](https://8weeksqlchallenge.com/case-study-1/)
+![dannysdiner_er dgm](https://github.com/durgaptm/Data-Analysis/assets/111633696/35175804-2220-47d4-93b2-0a4c1ff1eb34)
+
+  
   #### [My Solutions](https://github.com/durgaptm/Data-Analysis/tree/main/8%20Week%20SQL%20Challenge/Case%20Study%201)
   
   ### [Case Study 2 - Pizza Runner](https://8weeksqlchallenge.com/case-study-2/)
