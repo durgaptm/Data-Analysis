@@ -1,4 +1,4 @@
-## Data Analyst Portfolio
+## Data Analysis and Machine Learning Projects
 
 This repository contains a portfolio of Projects related to Data Analytics completed by me for academic and self-learning purposes, presented in the forms of Jupyter & Collab notebooks.
 
